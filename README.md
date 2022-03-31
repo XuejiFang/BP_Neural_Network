@@ -5,6 +5,10 @@
 
 abalone.csv 鲍鱼数据集
 
+## 笔记
+
+note.pdf 手推梯度下降公式
+
 ## .m文件
 
 BP.m	用Matlab自带工具箱实现
